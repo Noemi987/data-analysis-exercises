@@ -6,3 +6,8 @@ This repository contains exercises from my Data Analysis course.
 - Excel
 - Power Query
 - Power Pivot
+
+- MySQL
+- Database Design
+- SQL Queries
+- Data Analysis
