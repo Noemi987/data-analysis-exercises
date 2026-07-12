@@ -11,3 +11,8 @@ This repository contains exercises from my Data Analysis course.
 - Database Design
 - SQL Queries
 - Data Analysis
+
+- Python
+- Pandas
+- EDA
+- Data Visualization
