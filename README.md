@@ -16,3 +16,6 @@ This repository contains exercises from my Data Analysis course.
 - Pandas
 - EDA
 - Data Visualization
+
+- Data Modeling
+- Power BI Desktop
