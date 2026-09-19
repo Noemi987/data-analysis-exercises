@@ -6,6 +6,15 @@ Progetto realizzato in **Power BI** utilizzando il dataset pubblico e anonimizza
 
 Il dataset contiene informazioni relative agli ordini effettuati tra il **2016 e il 2018**, includendo dati su ordini, clienti, prodotti, recensioni e distribuzione geografica.
 
+Tabelle utilizzate:
+- `olist_orders_dataset`
+- `olist_order_items_dataset`
+- `olist_products_dataset`
+- `olist_order_reviews_dataset`
+- `olist_customers_dataset`
+
+I file sorgente non sono inclusi nel repository.
+
 ## Obiettivi
 
 Il report è stato sviluppato per analizzare:
