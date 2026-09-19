@@ -2,7 +2,7 @@
 
 ## Contesto
 
-Progetto finale realizzato in **Power BI** utilizzando il dataset pubblico e anonimizzato di **Olist**, piattaforma e-commerce brasiliana.
+Progetto realizzato in **Power BI** utilizzando il dataset pubblico e anonimizzato di **Olist**, piattaforma e-commerce brasiliana.
 
 Il dataset contiene informazioni relative agli ordini effettuati tra il **2016 e il 2018**, includendo dati su ordini, clienti, prodotti, recensioni e distribuzione geografica.
 
