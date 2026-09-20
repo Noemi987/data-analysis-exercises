@@ -35,11 +35,15 @@ Sono state create misure **DAX** per il calcolo dei principali KPI.
 Il report è articolato in quattro sezioni:
 
 - **Panoramica e-commerce**: KPI principali, andamento temporale, categorie prodotto e distribuzione delle valutazioni.
+![Panoramica e-commerce](images/overview.png)
 - **Analisi geografica delle vendite**: distribuzione del fatturato sul territorio e confronto tra stati.
+![Analisi geografica delle vendite](images/geographic_analysis.png)
 - **Analisi temporale**: confronto tra anno corrente e precedente e variazioni YoY di ordini e fatturato.
+![Analisi temporale](images/temporal_analysis.png)
 - **Dettaglio categoria prodotto**: pagina di drill-through dedicata all'analisi della categoria selezionata.
+![Dettaglio categoria prodotto](images/category_detail.png)
 
-Sono stati inoltre implementati filtri, navigazione e drill-through per rendere il report interattivo e facilitarne l'esplorazione.
+Sono stati implementati filtri, navigazione e drill-through per rendere il report interattivo e facilitarne l'esplorazione.
 
 
 
